@@ -1,6 +1,6 @@
 programa
 {
-	/*Faça um programa que crie um vetor por leitura com 5 valores de pontuação de uma
+	/*Faça um programa que crie um vetor por leitura com 5 valores de pontuação de uma
 atividade e o escreva em seguida. Encontre após a maior pontuação e a apresente.*/
 
 	funcao inicio()
